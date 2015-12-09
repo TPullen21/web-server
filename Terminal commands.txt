@@ -1,0 +1,4 @@
+npm init
+npm install express@4.13.2 --save
+
+node app.js
